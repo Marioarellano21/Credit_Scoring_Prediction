@@ -1,0 +1,6 @@
+account_check_status;credit_history;purpose;savings;present_emp_since;other_debtors;property;other_installment_plans;housing;telephone;foreign_worker;sexo;estado_civil;rango_edad;rango_plazos_credito;rango_valor_credito
+no checking account;existing credits paid back duly till now;radio/television;500 <= ... < 1000 DM ;.. >= 7 years;none;if not A121 : building society savings agreement/ life insurance;none;own;none;yes;male;single;53;24;2835
+< 0 DM;existing credits paid back duly till now;education;... < 100 DM;... < 1 year ;none;unknown / no property;none;own;yes, registered under the customers name;yes;male;divorced/separated;34;30;11998
+< 0 DM;existing credits paid back duly till now;repairs;... < 100 DM;1 <= ... < 4 years;none;if not A121/A122 : car or other, not in attribute 6;none;own;none;yes;male;single;54;48;3051
+< 0 DM;delay in paying off in the past;(vacation - does not exist?);... < 100 DM;... < 1 year ;none;if not A121 : building society savings agreement/ life insurance;none;own;none;yes;female;single;26;21;3414
+0 <= ... < 200 DM;existing credits paid back duly till now;(vacation - does not exist?);... < 100 DM;4 <= ... < 7 years;none;if not A121/A122 : car or other, not in attribute 6;none;own;none;yes;female;single;32;36;2273
