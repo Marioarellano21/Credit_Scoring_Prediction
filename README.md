@@ -21,11 +21,12 @@
   4.	Construcción de modelos de Machine Learning con sus métricas.
   5.	Evaluación y selección del mejor modelo, a través de los resultados de las métricas para cada modelo.
 
-    	![image](https://github.com/Marioarellano21/Credit_Scoring_Prediction/assets/146877817/9b3841dc-ba74-4d2e-9f71-ae25fc74ad5e)
+    	[image](https://github.com/Marioarellano21/Credit_Scoring_Prediction/assets/146877817/9b3841dc-ba74-4d2e-9f71-ae25fc74ad5e)
 
   6.	Probar el modelo en los nuevos clientes(DatosNuevosClientes.csv).
 
-      ![image](https://github.com/Marioarellano21/Credit_Scoring_Prediction/assets/146877817/ae992969-ab07-4bab-8a7d-39470a86a11b)
+      ![image](https://github.com/Marioarellano21/Credit_Scoring_Prediction/assets/146877817/a1bbbc3e-aae2-49fe-9a33-978f2bd4aadf)
+
 
      
 ## Conclusión y recomendaciones.
