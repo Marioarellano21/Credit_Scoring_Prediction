@@ -17,12 +17,13 @@
 
   1.	Configuración del entorno e importar las librerías a usar.
   2.	Preprocesamiento de Datos. Para ello creamos una función llamada procesar_datos().
-  3.	Análisis exploratorio de los datos (EDA). Para ello creamos una función llamada feature_engineering().
-  4.	Construcción de modelos de Machine Learning con sus métricas.
-  5.	Evaluación y selección del mejor modelo, a través de los resultados de las métricas para cada modelo.
+  3.	Hicimos feature engineering donde extrajimos y transformamos las características más importante para construir el modelo.
+  4.	Análisis exploratorio de los datos (EDA).
+  5.	Construcción de modelos de Machine Learning con sus métricas.
+  6.	Evaluación y selección del mejor modelo, a través de los resultados de las métricas para cada modelo.
     	![image](https://github.com/Marioarellano21/Credit_Scoring_Prediction/assets/146877817/9b3841dc-ba74-4d2e-9f71-ae25fc74ad5e)
 
-  6.	Probar el modelo en los nuevos clientes(DatosNuevosClientes.csv). El modelo seleccionado fue el random forest y se creo un función llamada prediccion_cliente_nuevo() la cuál permite predecir con el modelo de estudio el resultado de los clientes evaluados.
+  7.	Probar el modelo en los nuevos clientes(DatosNuevosClientes.csv). El modelo seleccionado fue el random forest y se creo un función llamada prediccion_cliente_nuevo() la cuál permite predecir con el modelo de estudio el resultado de los clientes evaluados.
       ![image](https://github.com/Marioarellano21/Credit_Scoring_Prediction/assets/146877817/a1bbbc3e-aae2-49fe-9a33-978f2bd4aadf)
 
 
